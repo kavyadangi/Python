@@ -1,0 +1,2 @@
+txt="     "
+print(txt.isspace())
